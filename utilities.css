@@ -1,0 +1,15 @@
+.border{
+    border: 2px solid red;
+    /* margin: 3px; */
+}
+.flex{
+    display: flex;
+}
+.align{
+    align-items: center;
+}
+.toggle_library{
+    display: none;
+}
+
+/*  */
